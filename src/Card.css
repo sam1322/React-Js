@@ -1,0 +1,15 @@
+ #card{
+    width :30%;
+    height :20% ;
+} 
+img{
+    height : 350px ;
+    width: 250px;
+    border-radius: 5%;
+}
+#para{
+text-align: center;
+width: 25em;
+/* margin-left: 3em; */
+/* overflow-y: scroll; */
+}
